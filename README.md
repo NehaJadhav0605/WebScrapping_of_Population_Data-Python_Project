@@ -17,7 +17,7 @@ The project highlights practical skills in data extraction, data cleaning, and d
 
 ## 🛠️ Tech Stack & Tools
 
-Programming Language: Python 🐍
+Programming Language: Python 
 
 Development Environment: Jupyter Notebook / Google Colab / VS Code
 
