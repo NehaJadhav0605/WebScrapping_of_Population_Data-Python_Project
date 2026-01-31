@@ -17,15 +17,15 @@ The project highlights practical skills in data extraction, data cleaning, and d
 
 ## 🛠️ Tech Stack & Tools
 
-- Python 
+Programming Language: Python 🐍
 
-- Google Colab or VsCode or Jupyter Notebook:(.ipynb)
+Development Environment: Jupyter Notebook / Google Colab / VS Code
 
-- Libraries:
+Libraries Used:
 
-BeautifulSoup / Requests (for web scraping)
+- BeautifulSoup & Requests — Web Scraping
 
-Pandas (for data processing)
+- Pandas — Data Processing & CSV Generation
 
 ## 📂 Project Files
 
